@@ -86,4 +86,5 @@ El comando `DELETE` se utiliza para eliminar registros específicos de una tabla
 2. **Eliminar Columna**: Elimina la columna `email` de la tabla `empleados`.
 3. **Eliminar Registros**: Elimina todos los registros de la tabla `empleados` que pertenezcan al departamento 'Recursos Humanos'.
 4. **Eliminar una Tabla**: Elimina la tabla `empleados` de tu base de datos.
+5. **Borrar la Base de Datos**: Elimina la base de datos.
   
